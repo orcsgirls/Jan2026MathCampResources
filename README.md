@@ -71,8 +71,8 @@ Resources, homework, etc. for the Math Behind Error Correction camp in January 2
 ### Further reading / more interesting resources
 
 
-[Error Detection and Correction open course materials from UTAustin](https://www.cs.utexas.edu/~plaxton/c/337/05f/slides/ErrorCorrection-3.pdf)
-[Error Detecting and Correcting Codes - Abstract Algebra open textbook from ASU](https://math.libretexts.org/Bookshelves/Abstract_and_Geometric_Algebra/Abstract_Algebra%3A_Theory_and_Applications_(Judson)/08%3A_Algebraic_Coding_Theory/8.02%3A_Error-Detecting_and_Correcting_Codes)
+- [Error Detection and Correction open course materials from UTAustin](https://www.cs.utexas.edu/~plaxton/c/337/05f/slides/ErrorCorrection-3.pdf)
+- [Error Detecting and Correcting Codes - Abstract Algebra open textbook from ASU](https://math.libretexts.org/Bookshelves/Abstract_and_Geometric_Algebra/Abstract_Algebra%3A_Theory_and_Applications_(Judson)/08%3A_Algebraic_Coding_Theory/8.02%3A_Error-Detecting_and_Correcting_Codes)
 
 
 
