@@ -43,10 +43,10 @@ Resources, homework, etc. for the Math Behind Error Correction camp in January 2
 ### Day 4
 
 - What are vectors?
-	- 1. Describe "hops" on the number line (of real numbers), how to visualize addition as adding "hops" and multiplication as making them longer
-	- 2. Now use the coordinate plane, kind of a 2d number line, and how vectors are essentially the 2d version of the "hops"
-	- 3. Introduce notation for writing vectors (ex. $\vec{v} = \langle 1, 2 \rangle$)
-	- 4. Introduce notation for vector spaces, what vector spaces are, and the ones we'll be using for the rest of the class ($\mathbb{Z}_2^n$)
+	- Describe "hops" on the number line (of real numbers), how to visualize addition as adding "hops" and multiplication as making them longer
+	- Now use the coordinate plane, kind of a 2d number line, and how vectors are essentially the 2d version of the "hops"
+	- Introduce notation for writing vectors (ex. $\vec{v} = \langle 1, 2 \rangle$)
+	- Introduce notation for vector spaces, what vector spaces are, and the ones we'll be using for the rest of the class ($\mathbb{Z}_2^n$)
 - Note: vectors themselves are fascinating but addition and multiplication by integers are all the arithmetic we need to know for Hamming codes (no dot products or anything complicated like that)
 - This might be enough content for one class?
 
