@@ -34,7 +34,7 @@ Resources, homework, etc. for the Math Behind Error Correction camp in January 2
 - 2-dimensional error detection / correction method
 - Discuss problems with all the methods we've discussed - we have to assume that there's only been one error
 - Brainstorm ideas to detect / correct more than one error
-- Some basic set notation, modular arithmetic, and finite fields (we'll use these when talking about vector operations later)
+- Some (very) basic set notation, modular arithmetic, and finite fields (we'll use these when talking about vector operations later)
 
 **Resources**
 - [2-dimensional error detection / longitudinal redundancy check](https://www.geeksforgeeks.org/computer-networks/longitudinal-redundancy-check-lrc-2-d-parity-check/)
