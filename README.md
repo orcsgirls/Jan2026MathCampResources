@@ -34,29 +34,22 @@ Resources, homework, etc. for the Math Behind Error Correction camp in January 2
 - 2-dimensional error detection / correction method
 - Discuss problems with all the methods we've discussed - we have to assume that there's only been one error
 - Brainstorm ideas to detect / correct more than one error
-- Some (very) basic set notation, modular arithmetic, and finite fields (we'll use these when talking about vector operations later)
-
-**Resources**
-- [2-dimensional error detection / longitudinal redundancy check](https://www.geeksforgeeks.org/computer-networks/longitudinal-redundancy-check-lrc-2-d-parity-check/)
-- [Set notation](https://math.libretexts.org/Courses/Cosumnes_River_College/Corequisite_Codex/01%3A_Sets_and_Numbers/1.02%3A_Sets_and_Set_Notation)
-
-### Day 4
-
+- Begin talking about vectors, and what notation we'll use to describe them
 - What are vectors?
 	- Describe "hops" on the number line (of real numbers), how to visualize addition as adding "hops" and multiplication as making them longer
 	- Now use the coordinate plane, kind of a 2d number line, and how vectors are essentially the 2d version of the "hops"
 	- Introduce notation for writing vectors (ex. $\vec{v} = \langle 1, 2 \rangle$)
 	- Introduce notation for vector spaces, what vector spaces are, and the ones we'll be using for the rest of the class ($\mathbb{Z}_2^n$)
 - Note: vectors themselves are fascinating but addition and multiplication by integers are all the arithmetic we need to know for Hamming codes (no dot products or anything complicated like that)
-- This might be enough content for one class?
 
 **Resources**
+- [2-dimensional error detection / longitudinal redundancy check](https://www.geeksforgeeks.org/computer-networks/longitudinal-redundancy-check-lrc-2-d-parity-check/)
 - [Vectors (lots of notation)](https://math.libretexts.org/Bookshelves/Calculus/Calculus_3e_(Apex)/10%3A_Vectors/10.02%3A_An_Introduction_to_Vectors)
 - [Vectors (less notation)](https://mathinsight.org/vector_introduction)
 - [Vector spaces (lots of notation)](https://math.libretexts.org/Courses/De_Anza_College/Linear_Algebra%3A_A_First_Course/07%3A_Vector_Spaces/7.01%3A_Vector_Space_-_Definition)
 - [Vector spaces (slightly less notation, a bit easier to understand)](https://www.geeksforgeeks.org/maths/basis-and-dimension-in-vector-space/)
 
-### Day 5 / Day 6
+### Day 4 / Day 5?
 - Vector spaces are all possible vectors of a certain length and in a certain base, subspaces are subsets of those. How to define a more restrictive vector subspace as a combination of basis vectors.
 - Visual representations of vector spaces and subspaces (squares, cubes, tesseracts, etc.)
 - How to tell whether a vector is within a subspace, and why or why not
@@ -67,6 +60,9 @@ Resources, homework, etc. for the Math Behind Error Correction camp in January 2
 - [Vector subspaces (lots of notation)](https://textbooks.math.gatech.edu/ila/subspaces.html)
 - [Hamming distance / minimum Hamming distance](https://www.geeksforgeeks.org/computer-networks/minimum-hamming-distance/)
 - [Hamming space (Wikipedia, couldn't find another source that explains it well)](https://en.wikipedia.org/wiki/Hamming_space)
+
+### Day 5 / Day 6?
+- There's some extra slides about modular arithmetic, finite fields, and set notation that were kind of a deviation from the topic of the class. If there's extra time, that's something we could potentially look at.
 
 ### Further reading / more interesting resources
 
